@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Week 1
-by: Michael Adeleke
+by: Niko Crumpler-Peoples
 ---
 
-During the first week, I met with Dr. Crawford and my mentors to discuss the project 
-that I will be working on and gained an understanding of what Dr. Crawford will be looking for. 
-Dr. Crawford also explained to me what, "Physiological Computing Education", is along 
-with the differences between EEG and EMG.
+This week was my first week coding. I am very proud of the accomplishments I’ve made within a short week. We learned about coding languages, commuter, properties, generative, AI, pandas, Git and GitHub, ethics while using AI,
+
+ I was able to achieve various different coding processes And printing various logistic And numerical data frames 
+
+The Onboarding process has been enjoyable as we’ve had a great time with our peers to interact and have icebreakers enabling new ideas for our project. 
+
+It was insightful to meet new people with like-minded goals, and create new connections.
+
 
 [Back](./)
