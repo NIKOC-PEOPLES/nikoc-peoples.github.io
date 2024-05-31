@@ -13,6 +13,8 @@ The Onboarding process has been enjoyable as we’ve had a great time with our p
 It was insightful to meet new people with like-minded goals, and create new networking connections.
 
 Im greatful for th eoppurtunity to work this summer within the Summer AI Research Institute, furthering my education and corperate value.
-
+(https://colab.research.google.com/drive/16XR0NyNvzARDZliNgnYp5Cg6Cik5YR5Q#scrollTo=UOx3lc476EWV)
+(https://colab.research.google.com/drive/1uIs4-KeG4azYCKi2KA6rIArPA2oR980p#scrollTo=7PqNt7qgCC2F)
+(https://colab.research.google.com/drive/1jfbl3nk5b8VeFIecJnSjlZ2uShPinTsR#scrollTo=UCYee4qsR0hG)
 
 [Back](./)
