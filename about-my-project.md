@@ -1,15 +1,14 @@
 ## About My Project
 
-mBot Neo
-
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Sport Brief AI Solutions: 
+Developing Post-game content using AI for automated box scores and video news reports
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+  - .
+  - 
+  - 
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+Expected Outcome: The project is expected to utilize the dataset created by radio personality J. R. Jackson of JR SportBrief Productions and develop standalone AI news reports from selected sports events. Ideally, the report would automatically generate upon the completion of a specified sporting event, using the words and images currently found in the JR SportsBrief database.
 
 
