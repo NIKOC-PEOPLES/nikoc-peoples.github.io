@@ -1,1 +1,1 @@
-hi
+// Week 3 was insightful and fun. this week we continued to transcend the interface of our "Ai sport broadcaster". we spent a good amount fo time finding sport datasets from Morgan State University's wevsite to gather the necessary input for our chatbot to learn. The field trip to the John Hopskins Lab was amazing ! It was truly an eye-opening experience that reminded me of a sci-fi movie, so much innovation and technological at our finger tips. 
