@@ -5,7 +5,7 @@ Developing Post-game content using AI for automated box scores and video news re
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
 
-  - .
+  - 
   - 
   - 
 
